@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentexplore">朋友圈界面</string>
+    <string name="消息">message</string>
+    <string name="联系人">contract</string>
+    <string name="发现">explore</string>
+    <string name="我的">me</string>
+</resources>
